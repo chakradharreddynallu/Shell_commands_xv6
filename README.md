@@ -1,5 +1,5 @@
 # Shell_commands_xv6
-**Introduction to UNIX System Programming Project**
+Introduction to UNIX System Programming Project**
 **Project Overview:**
 This repository hosts our submission for the system programming assignment, where we modify and extend the functionality of the xv6 operating system—a simple Unix-like teaching operating system. The focus of this project is to develop a deeper understanding of system calls, process management, and file handling by implementing and modifying traditional Unix commands within the xv6 environment.
 
